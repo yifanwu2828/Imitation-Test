@@ -2,6 +2,7 @@
 
 ## Install
   - run requirment.sh
+  - All scripts are placed at the root level.
 
 ## Training Scriot
   - train_irl_expert.py (SB3)
